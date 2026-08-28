@@ -1,134 +1,142 @@
----
-project: "Ewaluator"
-version: 1
-status: draft
+﻿---
+project: Ewaluator
+version: 2
+status: approved
 created: 2026-08-27
+last_updated: 2026-08-28
 context_type: greenfield
-product_type: other
+product_type: cli_and_engine
 target_scale:
-  users: small
-  qps: low
-  data_volume: medium
+  users: small (reporting team of 5)
+  qps: batch
+  data_volume: ~100-2000 responses per survey, up to 55 schools
 timeline_budget:
   mvp_weeks: 1
   hard_deadline: null
   after_hours_only: null
 ---
 
-## Vision & Problem Statement
+# PRD: Ewaluator — Automated Grant Evaluation & Knowledge Test Report Generator
 
-Fundacja Życie Warte Jest Rozmowy (ZWJR) pomaga osobom w kryzysie samobójczym i ich bliskim — rocznie dziesiątki tysięcy osób, ok. 50 osób personelu. Część działań finansuje z grantów (np. Ministerstwo Edukacji Narodowej) i rozlicza się z nich wynikami ankiet i testów wiedzy. W zeszłym roku jeden projekt wymagał raportów z ankiety „klimat szkoły" dla 55 placówek — po 52 pytania (połowa otwartych), ok. 100 odpowiedzi na szkołę.
+## 1. Vision & Problem Statement
 
-Fundacja prowadzi m.in. szkolenia dla nauczycieli z grantów. Każde zaczyna się testem wiedzy (pytania zamknięte); po szkoleniu ten sam test wraca plus ankieta ewaluacyjna z pytaniami otwartymi. Do rozliczenia trzeba wykazać, że min. 75% uczestników przekroczyło próg punktowy — ktoś ręcznie liczy, kto ile poprawił, i wzrost w procentach. Do każdego pytania dołącza się wykres i osobny opis, co na nim widać. „Każdy widzi, co jest na tym wykresie, ale musi być i wykres, i tekst" — mówi Konstancja Szymacha, Sekretarz Zarządu ZWJR. Przy większych zestawach fundacja wspomaga się narzędziami czatu, które zawodzą przy dużej liczbie pytań naraz — przy raporcie z 55 szkół „z każdym kolejnym pytaniem coraz bardziej się zacinał". Wykresy dziś kopiuje się ręcznie z formularzy ankietowych. Zespół raportujący spędził w zeszłym roku ok. trzech miesięcy pracy dwóch osób na rozliczenie ankiet z jednego projektu. „Tworzenie tych dokumentów, one niczemu nikomu potem nie służą" — mówi Konstancja Szymacha.
+**Fundacja Życie Warte Jest Rozmowy (ZWJR)** provides crucial assistance to individuals in suicidal crisis and their relatives, operating with approx. 50 staff members and helping tens of thousands of people annually. A major portion of their training and educational initiatives is funded through public grants (such as the Ministry of National Education — MEN).
 
-## User & Persona
+To settle and account for these grants, the foundation is required to produce comprehensive analytical reports detailing pre- and post-training knowledge test results and evaluation surveys. For instance, a single project involved evaluating **55 educational facilities** (schools), each with 52 survey questions (~50% open-ended) and ~100 responses per school.
 
-### Primary persona
+### Current Workflow & Bottlenecks:
+1. **Manual Data Aggregation**: Each training begins with a pre-training knowledge test (closed questions) and concludes with a post-training test plus an evaluation survey.
+2. **Grant Threshold Requirement**: The grant settlement requires demonstrating that **at least 75% of participants scored over the required knowledge threshold** in the post-test.
+3. **Manual Calculations & Chart Copying**: Staff members manually calculate percentage improvements, copy charts from Google Forms, and write individual descriptive paragraphs for every single question.
+4. **Chat Interface Failures**: Attempting to paste large survey datasets into standard web chat tools (ChatGPT/Gemini) causes failures, context overflow, and hallucinations on large batches.
+5. **Time Sink**: In the previous cycle, two team members spent approximately **3 months of manual work** compiling these reports.
 
-**Konstancja Szymacha i zespół raportujący ZWJR** — pracownicy fundacji odpowiedzialni za rozliczanie grantów na podstawie wyników szkoleń i ankiet. Przy każdym rozliczeniu grantu (kilka naraz w niektórych okresach) muszą przygotować raporty z wykresami i opisami dla grantodawcy. Jeden duży projekt to ok. 3 miesiące pracy 2 osób w roku; problem dotyka min. 5 osób w fundacji.
+**Core Goal**: Automate the intake of Google Forms survey data (Pre/Post .xlsx/.csv), compute 100% accurate statistics (frequencies, percentage point deltas, individual $\ge 75\%$ pass rates), generate publication-ready bar charts, and compile an official, professionally styled Microsoft Word (.docx) report.
 
-## Success Criteria
+---
 
-### Primary
+## 2. User & Persona
 
-- # TODO: mierzalne kryterium sukcesu demo — see Open Questions
-- Po wgraniu wyników „przed" i „po" dla jednego pytania zamkniętego narzędzie generuje wykres słupkowy porównujący odpowiedzi oraz opis zmiany (np. wzrost o X punktów procentowych) zgodnie z wyznaczonymi wymaganiami.
-- Zespół pobiera plik wyglądający jak zwykły dokument, nie eksport z czatu.
+### Primary Persona
+* **Konstancja Szymacha (Secretary of the Board, ZWJR) & the ZWJR Reporting Team**:
+  * Needs to reliably generate compliant evaluation reports for grant settlement under strict deadlines.
+  * Cannot risk calculation errors or AI hallucinations that could lead to grant audit corrections or funding disputes.
+  * Requires output in standard, editable .docx office documents adhering to ministerial formatting rules (Times New Roman 12pt, clean structure, no recognizable AI hallmarks).
 
-### Secondary
+---
 
-- # TODO: kryteria sukcesu poza rdzeniem demo — see Open Questions
-- [jeśli czas] to samo dla całej ankiety i pogrupowane odpowiedzi otwarte.
+## 3. Scope & Milestones
+
+### Phase 1: Happy Path MVP (Current Target)
+* Automatic ingestion of Google Forms Pre- and Post-training survey exports (.xlsx / .csv).
+* Automated alignment of shared Pre/Post knowledge test questions.
+* Computation of exact answer choice distributions, sample counts ({pre}$, {post}$), and percentage point differences ($\Delta$ p.p.).
+* Evaluation against the Answer Key to grade each participant's post-test and compute the **$\ge 75\%$ Grant Settlement Pass Rate**.
+* High-resolution Matplotlib chart generation matching reference aesthetics.
+* Standardized, formal Polish narrative generation for each question following the 3-part guideline structure.
+* Compilation into an editable .docx document with section summary.
+* Standalone Python CLI execution (generate_report.py).
+
+### Phase 2: Secondary Features & Extensions (Next Iterations)
+* Processing of Post-only evaluation questions (Likert ratings, single-choice satisfaction questions).
+* Thematic grouping & clustering of open-ended text answers with percentage shares and anonymized representative quotes.
+* Batch multi-school processing (generating 55 individual school reports + 1 global summary report).
+* Direct Google Forms / Google Drive API connector.
+
+---
+
+## 4. Success Criteria & Guardrails
+
+### Primary Success Metrics
+* **100% Numerical Precision**: Every count, percentage, and percentage point delta in charts and text matches the raw source data with zero hallucinations.
+* **Format Compliance**: Output document matches the visual and typographical requirements of Wytyczne dotyczące tonu i formatu raportu.docx and the reference PDF reports.
+* **Deterministic Calculation**: Calculations of knowledge gains and the 75% threshold are performed by a verifiable Python engine.
+* **Speed**: End-to-end report generation for a full survey dataset in $< 15$ seconds.
 
 ### Guardrails
+* **No AI Markers**: Narrative phrasing must sound natural, professional, and formal — avoiding generic chat-assistant clichés.
+* **Cautious Tone**: Conclusions must use cautious, evidence-based language (*„wyniki wskazują”*, *„odnotowano wzrost”*, *„może to świadczyć o...”*) and never claim unverified causation.
+* **Explicit Sample Size Handling**: Whenever {pre} \neq N_{post}$, the report text must explicitly disclose the participant count difference while comparing proportional percentages.
+* **Uncertainty Flagging**: Any ambiguous or corrupted response data must be clearly flagged rather than guessed.
 
-- Błędnie policzony wzrost wiedzy albo zmyślony opis wykresu trafia do raportu dla grantodawcy i grozi żądaniem korekty — liczby muszą w 100% zgadzać się z danymi.
-- Gdy coś jest niejednoznaczne, narzędzie ma to oznaczyć, nie zgadywać.
-- Ton ma pokazywać osiągnięcia, ale to nie znaczy zmyślanie danych.
-- Format nie może wyglądać jak eksport z czatu — to praca nad stylem dokumentu, nie tylko treścią.
-- Duże wolumeny łamią podejście „wrzuć wszystko naraz" — raport z 55 szkół już się tak zacinał. Projektuj pod porcje od początku.
+---
 
-## User Stories
+## 5. Functional Requirements (FR)
 
-### US-01: Raport z jednego pytania zamkniętego (demo)
+### Ingestion & Data Alignment
+* **FR-001**: System must load Pre-survey and Post-survey datasets from .xlsx or .csv files.
+* **FR-002**: System must automatically identify and align shared knowledge questions between Pre and Post files.
+* **FR-003**: System must extract total participant counts ({pre}$, {post}$) and demographic metadata (occupation, seniority, school name).
 
-- **Given** członek zespołu raportującego ma plik z wynikami „przed" i „po" dla jednego pytania zamkniętego
-- **When** wgrywa plik i uruchamia generowanie raportu
-- **Then** narzędzie generuje wykres słupkowy porównujący odpowiedzi
-- **And** pod wykresem pojawia się opis zmiany, np. wzrost o X punktów procentowych
-- **And** zespół pobiera plik wyglądający jak zwykły dokument, nie eksport z czatu
+### Statistical & Scoring Engine
+* **FR-004**: System must compute response frequencies and percentage distributions for each answer choice in Pre and Post.
+* **FR-005**: System must calculate the delta in percentage points: $\Delta = \%_{post} - \%_{pre}$.
+* **FR-006**: System must accept an Answer Key specifying the correct option for each knowledge question.
+* **FR-007**: System must grade each participant row in the post-test and compute the exact percentage of participants who achieved $\ge 75\%$ correct answers (grant settlement threshold).
 
-#### Acceptance Criteria
+### Visualization & Document Compilation
+* **FR-008**: System must render high-resolution bar charts for each question showing Pre vs Post percentage shares with visible data labels.
+* **FR-009**: System must construct a formal Polish narrative paragraph for each question adhering to the reference structure:
+  1. Question introduction and theme.
+  2. Identification of the correct answer (*„Poprawną odpowiedzią było stwierdzenie: ...”*).
+  3. Post-training result (% and count).
+  4. Pre-training comparison (% and count).
+  5. Percentage point difference (*„Odsetek poprawnych odpowiedzi wzrósł o X,X punktu procentowego...”*).
+  6. Sample size difference acknowledgment ({pre}$ vs {post}$) and cautious takeaway.
+* **FR-010**: System must compile all questions, charts, narrative paragraphs, and an overall summary section into a formatted Word .docx file (A4, Times New Roman 12pt).
 
-- # TODO: szczegółowe kryteria akceptacji (format pliku wejściowego, struktura wykresu, wymagania opisu) — see Open Questions
+---
 
-### US-02: Cała ankieta i odpowiedzi otwarte (jeśli czas)
+## 6. Non-Functional Requirements (NFR)
 
-- **Given** członek zespołu ma wyniki dla wielu pytań, w tym otwartych
-- **When** wgrywa dane całej ankiety
-- **Then** narzędzie przetwarza wiele pytań naraz
-- **And** grupuje podobne odpowiedzi otwarte z udziałem procentowym dla każdej grupy
+* **NFR-001 (Portion-based Batch Processing)**: Processing must occur in discrete, question-by-question pipeline steps to prevent memory bloat or token exhaustion when scaling to 55+ schools.
+* **NFR-002 (Platform Compatibility)**: Must run on standard Python 3.10+ environments across Windows, macOS, and Linux without proprietary OS dependencies.
+* **NFR-003 (Modularity)**: Statistical engine, chart renderer, narrative generator, and document builder must be decoupled to enable future UI integration.
 
-#### Acceptance Criteria
+---
 
-- # TODO: kryteria akceptacji dla grupowania odpowiedzi otwartych — see Open Questions
+## 7. User Stories & Acceptance Criteria
 
-## Functional Requirements
+### US-01: Generate Knowledge Test Comparison Report
+* **Given** a user has Pre-training and Post-training survey files (Preankieta.xlsx and Postankieta.xlsx).
+* **When** the user runs python generate_report.py --pre Preankieta.xlsx --post Postankieta.xlsx --out Raport_Wiedza.docx.
+* **Then** the system aligns all shared knowledge questions, calculates all percentage distributions and p.p. deltas, embeds high-res comparison bar charts, generates compliant Polish narrative descriptions, and saves the final .docx report.
 
-### Raportowanie rdzeniowe (demo)
+### US-02: Compute and Report 75% Grant Settlement Threshold
+* **Given** the post-survey responses and the answer key for the 5 knowledge questions.
+* **When** the statistical engine evaluates post-test scores.
+* **Then** the system calculates the percentage of participants scoring $\ge 75\%$ (e.g. $\ge 4/5$ correct) and records this metric in the summary section of the report.
 
-- FR-001: Członek zespołu raportującego can wgrać wyniki „przed" i „po" dla jednego pytania zamkniętego. Priority: must-have
-- FR-002: Członek zespołu raportującego can wygenerować wykres słupkowy porównujący odpowiedzi. Priority: must-have
-- FR-003: Członek zespołu raportującego can zobaczyć pod wykresem krótki opis zmiany w procentach zgodnie z wyznaczonymi wymaganiami. Priority: must-have
-- FR-004: Członek zespołu raportującego can pobrać gotowy dokument raportu wyglądający jak zwykły dokument. Priority: must-have
+---
 
-### Rozszerzenia (następne kroki)
+## 8. Resolved Decisions from Grill-Me Analysis
 
-- FR-005: Członek zespołu raportującego can przetworzyć całą ankietę na raz (wiele pytań). Priority: nice-to-have
-- FR-006: Członek zespołu raportującego can zobaczyć pogrupowane podobne odpowiedzi otwarte z udziałem procentowym dla każdej grupy. Priority: nice-to-have
-- FR-007: Członek zespołu raportującego can połączyć narzędzie z zewnętrznym źródłem ankiet. Priority: nice-to-have
-- FR-008: Członek zespołu raportującego can wygenerować wnioski i rekomendacje w raporcie. Priority: nice-to-have
-- FR-009: Członek zespołu raportującego can dopasować styl raportu do wymagań grantodawcy. Priority: nice-to-have
-
-## Non-Functional Requirements
-
-- Liczby w raporcie muszą w 100% zgadać się z danymi źródłowymi; gdy obliczenie lub interpretacja jest niejednoznaczna, narzędzie oznacza to wyraźnie zamiast zgadywać.
-- Narzędzie obsługuje duże wolumeny danych przez przetwarzanie porcjami — nie wymaga wrzucenia całego zestawu naraz.
-- Wygenerowany dokument wygląda jak zwykły dokument biurowy, a nie eksport z narzędzia czatu; tekst nie nosi rozpoznawalnych znamion bycia wygenerowanym automatycznie.
-- # TODO: konkretne cele wydajnościowe i limity wolumenu — see Open Questions
-
-## Business Logic
-
-Rozliczenie grantu wymaga wykazania, że co najmniej 75% uczestników przekroczyło próg punktowy, przy czym dla każdego uczestnika liczy się wzrost wiedzy wyrażony w punktach procentowych między wynikiem „przed" a „po".
-
-Do każdego pytania w raporcie dołącza się wykres i osobny opis, co na nim widać — „musi być i wykres, i tekst". Opis zmiany musi odzwierciedlać poprawny procent wzrostu zgodnie z danymi; wygląda prosto, bo wykres widać od razu, ale to dwa zadania naraz: wykres i opis z poprawnym procentem.
-
-# TODO: szczegóły progu punktowego i reguł liczenia wzrostu — see Open Questions
-
-## Access Control
-
-# TODO: Access Control — see Open Questions
-
-## Non-Goals
-
-- Nie budujemy rozwiązania opartego na wrzuceniu całego zestawu pytań naraz do narzędzia czatu — duże wolumeny łamią to podejście.
-- Połączenie z zewnętrznym źródłem ankiet — poza rdzeniem demo (nice-to-have, FR-007).
-- Pisanie wniosków i rekomendacji — poza rdzeniem demo (nice-to-have, FR-008).
-- Dopasowanie stylu pod grantodawcę — poza rdzeniem demo (nice-to-have, FR-009).
-- Przetwarzanie całej ankiety i grupowanie odpowiedzi otwartych — poza rdzeniem demo, chyba że starczy czasu w dniu demo.
-
-## Open Questions
-
-1. **Jaka jest oficjalna nazwa projektu/produktu?** — Notatki nie nadają nazwy narzędziu; roboczo „Ewaluator" z nazwy repozytorium. Owner: user. Block: no.
-2. **Jaki typ produktu (web-app, desktop, inne)?** — Notatki mówią o „narzędziu" z wgrywaniem plików i pobieraniem dokumentu, bez precyzji formy. Owner: user. Block: no.
-3. **Czy praca odbywa się wyłącznie po godzinach (`after_hours_only`)?** — TBD. Owner: user. Block: no.
-4. **Twardy termin (`hard_deadline`) dla demo/MVP?** — Notatki wskazują „demo na koniec dnia", bez daty kalendarzowej. Owner: user. Block: no.
-5. **Mierzalne kryteria sukcesu Primary poza opisem demo?** — TBD. Owner: user. Block: no.
-6. **Szczegóły progu punktowego i reguł liczenia wzrostu wiedzy** — Notatki wspominają próg i wzrost procentowy, ale bez pełnej specyfikacji obliczeń. Owner: user (opiekun grantu). Block: yes (błędne liczby grożą korektą od grantodawcy).
-7. **Format pliku wejściowego i struktura danych „przed"/„po"** — Notatki wspominają CSV i przykładowe wyniki (min. 3), bez schematu kolumn. Owner: user. Block: yes (demo wymaga pliku).
-8. **Wymagania dotyczące wykresu i opisu pod wykresem** — „zgodnie z wyznaczonymi wymaganiami" — jakie dokładnie? Owner: user. Block: yes.
-9. **Wytyczne odnośnie tonu/formatu dokumentu wyjściowego** — Notatki wspominają format zwykłego dokumentu i brak znamion AI; szczegóły (czcionka, szablon grantodawcy) TBD. Owner: user. Block: yes (format raportu).
-10. **Model dostępu: kto może wgrywać dane i pobierać raporty?** — Notatki wspominają „zespół", bez reguł auth. Owner: user. Block: no (MVP może być single-team).
-11. **Integracja ze źródłem ankiet** — Notatki wskazują formularze ankietowe jako źródło danych dziś; integracja to następny krok. Owner: user. Block: no (poza MVP).
-12. **Grupowanie odpowiedzi otwartych — definicja „podobnych" odpowiedzi** — TBD. Owner: user. Block: no (poza rdzeniem demo).
-13. **Granica tonu „pokazywania osiągnięć" vs. zmyślania danych** — Notatki: „Ustal granicę z opiekunem przed promptami." Owner: user (opiekun). Block: yes (ryzyko raportu dla grantodawcy).
+| # | Question / Topic | Resolution |
+|---|---|---|
+| 1 | **Product Type & Interface** | Standalone Python CLI and modular analytics engine. |
+| 2 | **Happy Path Scope** | Shared Pre/Post Knowledge Test questions (Cols 5–9). Post-only evaluation questions deferred to Phase 2. |
+| 3 | **Sample Size Variance** | Calculate proportional percentages for comparison and explicitly disclose {pre} \neq N_{post}$ in narrative. |
+| 4 | **Correct Answer Identification** | Configurable Answer Key mapping each question to its correct option. |
+| 5 | **75% Pass Rate Calculation** | Evaluated on individual respondent rows in Postankieta across all knowledge questions. |
+| 6 | **Chart Rendering** | High-resolution Matplotlib bar charts styled with Times New Roman and clean percentage labels. |
+| 7 | **Document Styling** | Exact replica of reference Word/PDF layout: Title $\rightarrow$ Chart $\rightarrow$ Formal Polish narrative paragraph. |
