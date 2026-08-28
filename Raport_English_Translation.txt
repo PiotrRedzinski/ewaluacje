@@ -1,0 +1,707 @@
+REPORT — EVALUATION SURVEY ANALYSIS
+"Wspierająca Szkoła" ("Supportive School") Program, Edition II
+Warsaw 2026
+Program: Wspierająca Szkoła (Adamed Foundation) | Co-financing: National Health Program (NPZ) / Ministry of National Education | Implementer: Życie Warte Jest Rozmowy (ZWJR) Foundation | Co-organizer: Adamed Foundation
+
+====================================================================
+TABLE OF CONTENTS
+====================================================================
+Introduction .......................................................... 3
+"A Student in Psychological Crisis – How to Recognize and Support Them?" .. 7
+  Evaluation survey ................................................... 8
+  Summary ............................................................ 22
+"Parents of a Student in Psychological Crisis – How to Motivate Them to Cooperate?" .. 23
+  Evaluation survey ................................................... 24
+  Summary ............................................................ 40
+"A Student After a Suicide Attempt – How to Support Their Return to School?" .. 41
+  Evaluation survey ................................................... 42
+  Summary ............................................................ 58
+"Teacher Psychological Well-Being – How to Cope with Stress and Difficult Emotions?" .. 59
+  Evaluation survey ................................................... 60
+  Summary ............................................................ 73
+"Emotional First Aid: How to Recognize a Suicidal Crisis in a Student and How to Establish a Crisis Team at School" .. 75
+  Evaluation survey ................................................... 75
+  Summary ............................................................ 81
+"How to Recognize an Emotional Crisis in a Teenager and How to React?" – Educational Meeting for Parents .. 83
+  Evaluation survey ................................................... 83
+  Summary ............................................................ 91
+"Parental First Aid: How to Recognize an Emotional Crisis in a Child and Teenager and How to React?" .. 93
+  Evaluation survey ................................................... 93
+  Summary ........................................................... 103
+"Parental First Aid: Addictions in Children and Youth" ............. 104
+  Evaluation survey .................................................. 104
+  Summary ........................................................... 111
+Conclusions .......................................................... 112
+
+====================================================================
+INTRODUCTION
+====================================================================
+Wspierająca Szkoła (Supportive School) is Poland's first comprehensive program on preventing suicidal behavior among children and adolescents, addressed to primary and secondary schools. The program's direct recipients are adults — teachers, school psychologists, pedagogues and other school staff, as well as parents. The program's goal is to give these groups relevant knowledge, improve their skills, and provide them with tools that allow them to properly care for the psychological well-being of children and youth.
+
+The program was built on WHO (2007) guidelines on school-based prevention, which in the context of preventing suicidal behavior identify as key:
+• strengthening the psychological health of adults — teachers and parents (providing informational/educational materials on psychological burden and possible mental disorders in themselves, other adults, children and youth, and ways of coping with them);
+• strengthening children's and teenagers' self-esteem (emphasizing strengths and resources, showing kindness, understanding, acceptance, praise);
+• educating children and teenagers on expressing and coping with their own emotions;
+• preventing school violence;
+• making information about help venues and helplines available.
+
+An important reference point was also the four evidence-based suicide-prevention strategies from the WHO LIVE LIFE implementation guide (2021): developing socio-emotional competencies in children and teenagers; early identification and adequate support of people with suicidal behaviors; restricting access to lethal means; responsible media reporting of suicidal behavior.
+
+Edition II of "Wspierająca Szkoła" was co-financed from the State budget via the National Health Program (NPZ) 2021–2025, Ministry of National Education, under the task "See the emotions – implementation of evidence-based educational, upbringing, intervention and prevention projects and programs, including universal, indicated and selective prevention programs."
+
+This edition included four four-teaching-hour trainings for teachers:
+• A Student in Psychological Crisis – How to Recognize and Support Them?
+• Parents of a Student in Psychological Crisis – How to Motivate Them to Cooperate?
+• A Student After a Suicide Attempt – How to Support Their Return to School?
+• Teacher Psychological Well-Being – How to Cope with Stress and Difficult Emotions?
+
+Knowledge-check surveys were prepared for each training, both before and after.
+
+Trainers were suicidology experts who regularly provide consultations on suicidal crisis, suicide attempts, self-harm and postvention. Edition II trainers:
+Jolanta Palma, Lucyna Kicińska, Małgorzata Łuba, Joanna Skiba, Magdalena Mastalerz, Maja Lipińska, Melania Dominiak, Anna Malinowska, Ewelina Cieśluk, Joanna Roch, Piotr Bakan (suicidologists, psychologists, pedagogues, crisis interventionists, psychotherapists — full credentials listed in the source document).
+
+--------------------------------------------------------------------
+SCALE OF THE PROGRAM (Edition II)
+--------------------------------------------------------------------
+• 55 schools from 16 voivodeships qualified for Edition II.
+• 220 trainings delivered for teaching staff (4 teaching hours each) = 880 teaching hours total; ~1,221 teachers participated.
+• 35 of the 55 schools (16 voivodeships) received Ministry of National Education co-financing: 140 trainings, 560 teaching hours, 804 teachers trained.
+• 15 educational meetings for parents/guardians ("How to recognize a crisis in a child/teenager and how to react") — 584 parents/guardians participated.
+• 6 open webinars "Parental First Aid: how to recognize an emotional crisis in a child/teenager and how to react" — 1,760 participants.
+• 4 open webinars on a new cycle, "Parental First Aid: Addictions in Children and Youth" — 513 participants.
+• 6 open webinars for school staff, "Emotional First Aid: how to recognize a suicidal crisis in a student and how to set up a school crisis team" — 1,401 participants.
+• Free online consultations for teachers regarding students: 42 consultations.
+• Free online consultations for parents/guardians regarding children: 223 consultations.
+• Free online consultations for teachers/pedagogues/school psychologists on burnout/emotional load: 5 consultations.
+• 55 crisis-response procedures created for schools, via 130 online consultations.
+• 55 schools received the "Wspierająca Szkoła" certificate.
+• Educational game for students, "Super Moce" (Superpowers), sent to all 55 schools (5 copies each = 145 copies). Characters: Neon, Pixel, Focus, Luna, Elektra and Aurora — friends who support one another through hard emotional moments, emphasizing that asking for help is itself a "superpower."
+• Each of the 55 schools also received a package: 2 copies each of 6 guidebooks, 2 copies of lesson scenarios, 10 informational posters on peer support in 10 steps, and a QR code to free dedicated materials.
+• Pre-training knowledge survey, post-training knowledge survey, and the evaluation survey were all sent online to all training participants.
+
+--------------------------------------------------------------------
+LIST OF 55 PARTICIPATING SCHOOLS (Edition II)
+--------------------------------------------------------------------
+(Full list of institution names across 16 voivodeships — general and specialized secondary schools ("Liceum"), primary schools ("Szkoła Podstawowa"), school complexes ("Zespół Szkół"/"Zespół Szkolno-Przedszkolny"), located in cities including Stargard, Pisz, Żywiec, Szczecin, Olkusz, Zielona Góra, Rzeszów, Lublin, Gdańsk, Bydgoszcz, Długowola, Opole, Chorzów, Lubicz Dolny, Baboszewo, Młynkowo, Gostomia, Jakubowice Konińskie, Przystajń, Milejów, Mierzyn, Czernichów, Zegrze, Zalesie Górne, Komorniki, Puławy, Bełchatów, Nowa Sól, Słupsk, Kielce, Łódź, Złotoria, Żnin, Leśnica, Zawonia, Dopiewo, Klebark Wielki, Brańsk, Miętne, Leżajsk, Suwałki, Warszawa, Kraków, Poznań, Bartoszyce, Głogów, Szczurowa, Szumowo, Bogatynia.)
+
+====================================================================
+PART I — "A STUDENT IN PSYCHOLOGICAL CRISIS – HOW TO RECOGNIZE AND SUPPORT THEM?"
+====================================================================
+This training equipped participants with knowledge and tools for identifying and responding to psychological crises in children and youth: warning symptoms, long-term consequences, concrete intervention strategies with an emphasis on empathy and effectiveness, when/how to seek outside support, and building psychological resilience among youth.
+
+1,262 people took part in this training across all 55 schools (a per-school participant table is included in the original, ranging roughly from 11 to 52 participants per school).
+
+--- Evaluation survey ---
+Format: 6 single-choice questions, 6 open questions, 3 scaled-rating questions. Combined with the post-training knowledge test, so respondent counts are identical for both. 976 people responded (~77.3% return rate).
+
+Q: Was the way content was delivered during the meeting appropriate for you?
+Yes: 965 (98.9%) | No: 11 (1.1%)
+
+Of the 117 people who commented on possible changes (more than the 11 "No" respondents, since others chose to comment anyway), themes were:
+1. No need for changes / positive rating (dominant): "Nothing needs to change," "Everything was fine," "Very satisfied," "Professionally done," etc.
+2. Format preference — online vs. in-person: several wanted in-person sessions instead.
+3. Duration/organization: suggestions to shorten, split into two segments, add a scheduled break, hold at an earlier time.
+4. Interactivity/methods: some wanted more interaction, case exercises, more concrete reaction examples (though breakout rooms were already praised by others).
+5. Minor content/language notes: discomfort with the word "clients" for therapy participants; request to keep/share slides; occasional "too general" feedback.
+6. A few isolated critical opinions: "waste of time," "too much filler," "not matched to my professional experience." These were rare and non-recurring.
+
+Q: Was the content delivered in an understandable way?
+Definitely yes: 85.0% | Rather yes: 14.8% | Rather no: 0.1% | Definitely no: 0.1%
+
+Q: Did the exercises during training allow practical use of the knowledge gained?
+Definitely yes: 70.7% | Rather yes: 28.2% | Rather no: 0.9% | Definitely no: 0.2%
+
+Q: Did the trainer encourage interaction and allow room for questions/discussion?
+Yes: 99.7% | No: 0.3%
+
+Q: Did participation in the training let you gain or organize knowledge?
+Definitely yes: 72.6% | Rather yes: 26.4% | Rather no: 0.8% | Definitely no: 0.1%
+
+Scale item — "Thanks to the meeting I better understand the problems teenagers face" (1–5):
+1: 10 (1.0%) | 2: 7 (0.7%) | 3: 39 (4.0%) | 4: 221 (22.6%) | 5: 699 (71.6%)
+
+Scale item — "Thanks to knowledge gained, our school is better prepared to respond to students in crisis":
+1: 9 (0.9%) | 2: 9 (0.9%) | 3: 36 (3.7%) | 4: 251 (25.7%) | 5: 671 (68.8%)
+
+Q: Will the content help in your professional work? Yes: 99.1% | No: 0.9%
+
+Open question — "Which content will be most useful in your daily work? Why?" Key themes (with representative quotes translated):
+1. Talking with a student in crisis (communication, dialogue, empathy) — e.g., "How to talk with someone in a difficult situation," "how to really help instead of causing more harm," "listening rather than rushing to fix things."
+2. Sample questions and ready-made phrasings — e.g., "example questions," "what to say and what not to say to a student in crisis."
+3. Frameworks/tools: the FUKO method (a structured feedback/conversation protocol) and the "4Z" model (Notice–Ask–Accept–React) — frequently praised as practical and memorable.
+4. Recognizing crisis and warning signs — noticing behavioral changes, non-obvious symptoms; "I didn't realize that inappropriate behavior can be a cry for help."
+5. Step-by-step response — clear sequencing of actions when a crisis is disclosed.
+6. Emotional first aid — step-by-step guidance for helping someone in psychological crisis.
+7. High-risk topics: self-harm, suicidal thoughts/attempts — distinguishing self-harm from a suicide attempt.
+8. Support pathway/procedures/collaboration ("passing the baton") — knowing when and how to hand a case to another specialist, and that doing so is legitimate.
+9. Real-life examples, role-plays, case studies — praised as the most effective learning method.
+10. General answers ("everything was useful," hard to pick just one).
+11. A few critical/negative responses: "too many words, I got lost," "nothing new," "not relevant to my role."
+
+Summary of this question: the most valued elements were practical conversation skills with a student in crisis — ready-made questions/phrases, the FUKO and 4Z frameworks, symptom recognition, and a clear response pathway (including emotional first aid and high-risk situations like self-harm and suicidal ideation).
+
+Open question — "Did the meeting change how you perceive certain issues? Which ones?" Key themes:
+1. Changed approach to talking/communicating with a student in crisis.
+2. Empathy instead of consoling/advice-giving — realizing that reassurance, advice, and minimizing the problem are not helpful; presence and empathy matter more.
+3. Distinction between empathy and sympathy/compassion.
+4. "Calling things by their name" — not being afraid of difficult words, including "suicide."
+5. Reframing student behavior — not labeling misbehavior, looking for underlying causes (e.g., aggression may stem from lived experience, not "bad upbringing").
+6. Greater vigilance for crisis signals and better symptom recognition.
+7. The "relay/baton" concept — understanding the limits of a teacher's role and the legitimacy of passing a case to a more competent person; reduced sense of sole responsibility.
+8. When to call for help / emergency response (medical services, police, 112).
+9. New understanding of self-harm, suicide attempts, self-destructive behavior — not "fashion," often a cry for help or a way of seeking relief.
+10. Organized/consolidated existing knowledge (without a "revolution" in thinking) — many said it reinforced rather than changed what they knew.
+11. No change — for those already experienced or previously trained in this area.
+
+Summary: most often the meeting shifted participants toward empathy, active listening, and avoiding consolation/advice; many also noted greater willingness to speak plainly about difficult topics (including suicide), better understanding of student behavior (without labeling, seeking causes), and increased vigilance to crisis signs. The "relay of help" concept and clarity about when to call in outside services were also significant.
+
+Open question — "Can you identify content you consider unnecessary in the agenda? Which?" Key themes:
+1. No unnecessary content (dominant answer) — "everything was necessary," "100% informationally necessary," "every topic had practical application."
+2. Content that was already known/obvious (but not seen as unnecessary) — some found parts of the material familiar from prior training, still valued as reinforcement.
+3. Too much theory/definitions — suggestions to shorten theoretical parts, e.g., "neuromechanics of emotion," lengthy crisis classifications.
+4. Introduction/first part too long — a handful felt the first ~30–40 minutes could be trimmed.
+5. Too little practice / too much repetition — requests for more concrete examples, less theory.
+6. Group-work format concerns (isolated) — a couple of participants felt breakout-group work was time-consuming without adding much.
+7. Content seen as "too specialized" for teachers — some felt certain material belonged more to psychologists.
+8. A couple of isolated/humorous remarks about analogies to dogs used in the training.
+
+Open question — "Do you feel anything important was missing from the agenda? What?" Key themes:
+1. "Nothing was missing" — dominant response; the topic was seen as thoroughly covered.
+2. Too little time / topic too broad for 3 hours (more "could go deeper" than "something missing").
+3. More practice, case studies, examples, role-plays wanted.
+4. Talking with parents / difficult parent cooperation — e.g., how to inform parents, handle a parent who denies the child's crisis or is hostile.
+5. What to do when a student refuses help or denies having a problem.
+6. Teacher well-being / psyche — coping with the emotional burden of helping students in crisis, burnout, what to do if a student dies by suicide despite the teacher's efforts.
+7. Grief after a student's death (including suicide) and how the class should process it.
+8. Deeper knowledge on specific conditions — depression, PTSD, school phobia.
+9. Scope of competence: teacher vs. specialist (psychologist/psychiatrist/psychotherapist).
+10. The classroom as a support environment — how to prepare peers to support a student in crisis.
+11. A few other isolated suggestions (e.g., dealing with a student who blames others for their problems; the topic of peer bullying/hate as an underlying stressor).
+
+Overall meeting rating (0–10 scale): 10: 634 (65.0%) | 9: 198 (20.3%) | 8: 99 (10.1%) | 7: 23 (2.4%) | 1–6: combined <2%.
+
+Open question — "Any additional comments?" Key themes:
+1. No additional comments / full satisfaction (largest group).
+2. Very high praise for the trainer's competence and delivery.
+3. Appreciation for practical examples and delivery format (e.g., analogies, a case-study segment on a student in crisis, video use, breakout rooms).
+4. Preference for in-person vs. online format (recurring minority view).
+5. Comments on length/timing — fatigue after a full workday, 3 hours felt long.
+6. Requests for even more practical content.
+7. Technical/organizational notes (audio quality, connectivity, group-work logistics, double surveys taking too long).
+8. Reflections on the need for support for teachers themselves.
+9. Desire for continuation / more sessions.
+
+--- Summary (Part I) ---
+The evaluation of "A Student in Psychological Crisis – How to Recognize and Support Them?" shows the training was very highly rated and largely met its educational and practical goals. 976 respondents participated — a high, reliable sample. 65% gave the top rating (10/10); over 85% rated it 9 or 10. Over 99% agreed the content would help their professional work. The trainer's competence, clarity, and ability to create a safe space for questions were highlighted. The training's practical focus — concrete guidance on talking with a student in crisis, empathy, active listening, naming emotions, avoiding hasty advice — was most valued, along with clearer recognition of warning signs (including self-destructive behavior and suicidal ideation) and clear response frameworks/emotional-first-aid steps. Participants reported greater vigilance, less labeling of student behavior, more willingness to have difficult conversations (including about suicide), and stronger awareness of the limits of the teacher's role and the value of team collaboration/referral. Most found the agenda complete; the few suggestions concerned more practical examples/case studies, deeper coverage of talking with parents, and more attention to teacher well-being and post-death/grief procedures. Organizational notes (format, length, timing) were secondary. Conclusion: the training substantially increased teachers' and specialists' knowledge, competence and confidence in recognizing and supporting students in psychological crisis; continuing and expanding the program (especially modules on parent cooperation and staff well-being) is warranted.
+
+====================================================================
+PART II — "PARENTS OF A STUDENT IN PSYCHOLOGICAL CRISIS – HOW TO MOTIVATE THEM TO COOPERATE?"
+====================================================================
+This training addressed how teachers and school specialists cooperate with parents/guardians of a student in psychological crisis: why it's hard for parents to accept difficult information about their child, how to plan and conduct such a conversation, how to support and motivate parental cooperation, what recommendations a parent should leave the meeting with, and the broader (non-school) support system for youth psychological crises.
+
+1,212 people participated (per-school breakdown included in the original, similar range as Part I).
+
+--- Evaluation survey ---
+Format: same structure (6 single-choice, 6 open, 3 scaled). 964 respondents (~79.5% return rate).
+
+Q: Was the delivery format appropriate? Yes: 955 (99.1%) | No: 9 (0.9%)
+
+159 people commented on possible changes. Key themes:
+1. No comments / no need for change (dominant) — very positive.
+2. Format, pace, monotony, length — e.g., monotone voice, too fast/dynamic delivery, sessions felt long/monotonous relative to content, technical voice issues, request for more concreteness in less time, fewer generalities, or conversely a wish for a longer session/more sessions.
+3. Participant engagement / real-world examples — wanting more teacher sharing of experience and more real-case examples.
+4. Organizational/technical format — preference for in-person; request to email slide summaries; ask participants to log in with full name; technical issues that blocked hearing the training.
+5. Substantive/context notes — relevance given that many children don't tell parents about problems, teachers often learn first; frustration that institutional/bureaucratic systems ("urzędy") are slow even when schools do their part.
+
+Q: Was content delivered understandably? Definitely yes: 75.3% (726) | Rather yes: 24.3% (234) | Rather no / Definitely no combined: 0.4% (4)
+
+Q: Did exercises allow practical use of knowledge? Definitely yes: 62.3% (601) | Rather yes: 35.7% (344) | Negative combined: 2.0% (19)
+
+Q: Did the trainer encourage interaction/discussion? Yes: 99.0% (954) | No: 1.0% (10)
+
+Q: Did the training let you gain/organize knowledge? Definitely yes: 65.0% (627) | Rather yes: 34.1% (329) | Negative combined: 0.8% (8)
+
+Scale — "Thanks to the meeting I better understand problems teenagers face":
+1: 13 (1.3%) | 2: 4 (0.4%) | 3: 33 (3.4%) | 4: 249 (25.8%) | 5: 665 (69.0%)
+
+Scale — "Thanks to knowledge gained, our school is better prepared for students in crisis":
+1: 9 (0.9%) | 2: 3 (0.3%) | 3: 41 (4.3%) | 4: 281 (29.1%) | 5: 630 (65.4%)
+
+Q: Will content help your professional work? Yes: 98.5% (950) | No: 1.5% (14)
+
+Open question — "Which content will be most useful? Why?" Key themes:
+1. How to talk with a parent — stages, plan, structure of the conversation; participants valued a "ready instruction" / roadmap for such meetings, and the sense of security it gave them.
+2. Parental resistance / lack of cooperation — recognizing it and responding: many wanted (and valued) tools for handling a "resistant parent," understanding that resistance often reflects grief, fear or overwhelm rather than hostility.
+3. Ready-made phrasings/questions/examples for talking to parents about a difficult topic.
+4. Frameworks from the training — the "4Z" rule, "3 principles of effective communication," meeting phases, stages of grief, phases of accepting a child's diagnosis.
+5. The parent's perspective, empathy, and understanding parental reactions — recognizing denial, appreciating parental effort, feeling more prepared for potentially negative reactions.
+6. Recognizing a student's crisis — symptoms, impact on school functioning, safety planning, risk after psychiatric discharge, not minimizing the child's emotions.
+7. Supporting parents and encouraging them toward specialist help — how to persuade a parent to seek therapy/psychiatric care for the child; what to do when a parent denies the problem.
+8. Formal/administrative/procedural/legal aspects; institutional referral pathways (e.g., PPP — psychological-pedagogical counseling centers).
+9. School–parent relationship, boundaries, atmosphere; building rapport, setting boundaries respectfully.
+10. Parent psychoeducation / recommended reading.
+11. Other: reduced pressure from acknowledging that lack of parental engagement has many causes; courage to raise difficult conversations; not dismissing small concerns students bring up. A couple of critical/dismissive comments ("not relevant, I'm a subject teacher not a psychiatrist").
+
+Open question — "Did the meeting change how you see certain issues? Which?" Key themes:
+1. The parent's perspective/empathy/parental emotions/"grief" — understanding what parents go through, that a parent may be grieving the image they had of their child, needing patience as parents move through stages similar to grief.
+2. Parental resistance/denial — better understanding its sources and mechanisms; realizing the teacher needn't carry the whole burden alone.
+3. How to talk with parents — communication approach, wording, structure; reinforced understanding that the school supports but is not a therapy provider.
+4. Parental reactions to receiving difficult news about their child.
+5. Recognizing a student's crisis / not minimizing symptoms / acting sooner.
+6. Teacher/school role vs. specialists/institutions and parental responsibility — the parent, not the teacher, bears primary responsibility; it's fine to refer onward without feeling like a failure.
+7. Supporting and motivating parents toward cooperation/specialist help.
+8. Boundaries, not taking a parent's defensive reaction personally — recognizing that a parent's pushback against the school isn't necessarily an attack.
+9. Other: how to talk with parents of children with suicidal thoughts; not minimizing a child's emotions; being honest rather than falsely reassuring ("everything will be fine"). One critical response found the training added little of practical value given years of classroom experience.
+
+Open question — "Anything unnecessary in the agenda?" Key themes:
+1. No unnecessary content / everything needed and coherent (dominant).
+2. Suggestions to shorten/compress — e.g., the first hour felt too long, some repetition (including repetition across sessions in the series), slides with many redundant example answers.
+3. Content flagged as "unnecessary" or "mismatched" by a few — e.g., the "5 points on reactions to diagnosis," parts on resistance, communication rules (seen by a couple as already familiar).
+4. Requests for more practice — more time on case analysis/practical exercises.
+5. Other minor remarks (e.g., wanting a break).
+
+Open question — "Was anything important missing?" Key themes:
+1. Nothing missing / topic exhausted (dominant).
+2. Practical materials: lists of helpline/institution contacts, concrete step-by-step guidance for parents to act "here and now" while waiting for external referrals.
+3. More exercises/workshops/case studies.
+4. Difficult/aggressive/uncooperative parents — escalation, direct attacks on the school, complaints to oversight bodies ("kuratorium"); requests for tools to enforce recommendations without being seen as a "pushy teacher."
+5. Legal aspects / legal steps available to teachers facing unfounded blame from parents.
+6. Family context — conflicted parents, differing parenting styles; parents who are themselves in crisis or overwhelmed.
+7. Special groups/topics: adult (18+) students who decide for themselves; talking with a parent after a suicide attempt (not just "crisis"); parental fear of stigmatizing the child among peers as a driver of denial.
+8. Access/recording/time and systemic conditions — requests for recordings, concern about finding time given large class sizes and near-full-time teaching loads, calls for the Ministry to reduce class sizes.
+9. Other: one respondent found the training added nothing to their experience; most others found it thorough, interactive, and well-answered via Q&A.
+
+Overall meeting rating (0–10): 10: 539 (55.9%) | 9: 243 (25.2%) | 8: 113 (11.7%) | 7: 47 (4.9%) | 1–6 combined: just over 2%.
+
+Open question — additional comments. Key themes:
+1. Thanks and positive wrap-ups (largest group).
+2. Praise for the trainer/style/atmosphere — competence, warmth, clarity.
+3. Notes on pace/monotony — a few found the delivery fast or monotone.
+4. Organizational notes — length, break duration, timing conflicts with the school day, ending hours.
+5. Format preference — in-person vs. online; appreciation for good group activation.
+6. Request for slide materials to be shared.
+7. Technical issues (audio, connection).
+8. General reflective comments — appreciation for gaining insight into both the child's and the parent's perspective.
+9. One request: "When's the next one?"
+10. One critical remark about imperfect delivery/clarity.
+
+--- Summary (Part II) ---
+The training was rated very highly and met its substantive and organizational goals. Nearly all respondents found the format appropriate and the content clear, logically structured and practically oriented to real needs of teachers and specialists working with students and their families. Exercises and examples were valued for translating theory into concrete workplace actions; the trainer's competence, professionalism and openness were highlighted. The training substantially broadened/organized knowledge, especially regarding student crises, parental reaction mechanisms, and empathetic, well-planned communication. Many respondents reported a shift in how they view parental resistance — as a natural reaction rooted in fear, helplessness or a grief-like process rather than hostility — and increased confidence in conducting difficult conversations and understanding the limits of the school's role. Most found no missing or unnecessary content, judging the program coherent and comprehensive; occasional suggestions concerned more practice, case studies, longer duration, or an in-person format. Organizational feedback (timing, technical issues) did not diminish the very positive overall assessment. The training effectively strengthened participants' competence in working with students in crisis and building parent cooperation.
+
+====================================================================
+PART III — "A STUDENT AFTER A SUICIDE ATTEMPT – HOW TO SUPPORT THEIR RETURN TO SCHOOL?"
+====================================================================
+This training covered actions taken by teaching staff toward students after a suicide attempt: the role of the crisis team, practical tools for contact with such a student (how to talk about suicidal thoughts/tendencies, how to implement a safety plan), guidance for conversations with parents, and adapting the educational process to the student's current functioning level after a suicide attempt.
+
+1,214 people participated (per-school table in original).
+
+--- Evaluation survey ---
+Same structure. 950 respondents (~78.3% return rate).
+
+Q: Was the format appropriate? Yes: 943 (99.3%) | No: 7 (0.7%)
+
+171 people commented. Key themes:
+1. No comments / everything fine (dominant): "nothing to change," "everything was clear," etc.
+2. Training duration — heavy after a workday; some wanted it shortened, one wanted more time.
+3. Delivery pace/dynamics — some found the calm, steady tone soporific or monotone (one respondent noted their ADHD made a single steady tone hard to follow); a request for more questions to increase activation.
+4. Work methods — exercises, examples, practice; one praised breakout-room work as "excellent," another wanted less "dry theory" and more real-life examples.
+5. Positive notes on content quality — clear, well-explained, accessible slides.
+6. Organizational/technical — preference for in-person; dislike of the workshop portion by one respondent; a technical dropout from a breakout room.
+7. A few ambiguous/unclear responses.
+
+Q: Was content delivered understandably? Definitely yes: 80.7% (767) | Rather yes: 18.7% (178) | Negative combined: 0.5% (5)
+
+Q: Did exercises allow practical application? Definitely yes: 63.5% (605) | Rather yes: 35.4% (337) | Negative combined: 1.1% (8)
+
+Q: Did the trainer encourage interaction? Yes: 99.6% (946) | No: 0.4% (4)
+
+Q: Did the training help you gain/organize knowledge? Definitely yes: 69.1% (656) | Rather yes: 30.5% (290) | Negative combined: 0.4% (4)
+
+Scale — "Better understand teenagers' problems": 1: 4 (0.4%) | 2: 1 (0.1%) | 3: 32 (3.4%) | 4: 219 (23.1%) | 5: 694 (73.1%)
+
+Scale — "Our school is better prepared for students in crisis": 1: 4 (0.4%) | 2: 2 (0.2%) | 3: 39 (4.1%) | 4: 258 (27.2%) | 5: 647 (68.1%)
+
+Q: Will content help your professional work? Yes: 943 (99.3%) | No: 7 (0.7%)
+
+Open question — "Which content will be most useful? Why?" Key themes:
+1. General "everything/most of it was useful."
+2. Talking/communicating with a student after a suicide attempt/in crisis — how to start and steer the conversation.
+3. What to avoid asking — questions to avoid, especially not asking "why" about the reasons behind the attempt.
+4. Safety planning — creating a safety plan for the student, described by many as a genuinely new and applicable tool.
+5. Procedures and step-by-step response schemes for crisis situations.
+6. The student's return to school after an attempt — how to behave, what to say, planning support upon return.
+7. Supporting the student, parents, and classmates — extending help to the wider school community, not just the individual.
+8. The crisis team — its establishment, roles, and functioning; understanding that this is teamwork, not a solo responsibility.
+9. Recognizing warning signals / risk factors as prevention.
+10. Materials, tools, additional resources — lesson scenarios, helpline numbers, apps for children, WHO data to share onward.
+
+Open question — "Did the meeting change how you see certain issues?" Key themes:
+1. No change / already familiar — a sizable group said the training organized or reinforced (rather than changed) their existing knowledge.
+2. Change/broadened perspective (general affirmative responses).
+3. Increased awareness / attentiveness — "every student deserves our attention, even if they don't ask for it directly"; heightened sensitivity to students' well-being.
+4. How to talk with a student after an attempt / in crisis — reduced fear of engaging directly; better understanding of first-contact approach.
+5. "Don't ask why" — realization that probing for the reason behind an attempt is inappropriate; focus instead on supporting the student in the present.
+6. Safety planning / structured action — the previously "unmanageable" topic of a student's return to school became something plannable.
+7. The crisis team / teamwork / division of roles — many first encountered the concept of a formal "Crisis Team" through this training; recognition that the whole school (not just one teacher) shares responsibility, and that other students/staff can also be affected.
+8. The family and surrounding environment are also in crisis — parents, classmates, and teachers themselves may need support.
+9. The "Werther effect" (suicide contagion/imitation risk) — many first learned this term and were struck by its implications for peer imitation.
+10. Symptoms/warning signs/risk factors — sharper attentiveness gained.
+11. Reframing suicide attempts / not minimizing / correct terminology — learning that clinicians avoid terms like "successful/unsuccessful" attempt in favor of "completed/not completed," and that there is no such thing as a "fake" suicide attempt; that attention-seeking behavior should not be dismissively judged.
+
+Open question — "Anything unnecessary in the agenda?" Key themes:
+1. No unnecessary content (dominant) — "everything was needed," "nothing to remove."
+2. Positive general endorsement — "everything was relevant and practical."
+3. Some uncertainty / no strong opinion.
+4. A few specifics flagged for trimming — too much "dry theory," administrative-procedure content seen as less valuable than concrete examples; a somewhat long introduction.
+5. A couple of substantial critical comments arguing the content felt disconnected from teachers' real working conditions, or that it should focus more on burnout prevention generally.
+
+Open question — "Was anything important missing?" Key themes:
+1. Nothing missing / agenda complete (dominant) — topic seen as thoroughly covered.
+2. Uncertain/hard to judge — often because the respondent had no direct experience with such a crisis yet.
+3. Desire for more concreteness / ready-made phrasings.
+4. More real-life examples / discussion of past mistakes and good practices.
+5. More exercises / more training time.
+6. Teacher role, boundaries of responsibility, stress and support for staff — a call for clearer discussion of the emotional toll on teachers and where their responsibility ends.
+7. Working with the class/peers after an attempt or completed suicide — how to talk with classmates who know what happened, how to prepare peers for a student's return.
+8. Support for the family / family relationships.
+9. Legal consequences for parents connected to a child's attempt.
+10. Difficult cases: a student who refuses help, or where bullying/hate was a contributing factor.
+11. A few minor suggestions (e.g., wanting a break; wanting a first-person testimonial from someone who survived an attempt).
+
+Overall meeting rating (0–10): 10: 567 (60.6%) | 9: 239 (25.2%) | 8: 94 (9.9%) | 7: 22 (2.3%) | 1–6 combined: under 2%.
+
+Open question — additional comments. Key themes:
+1. No additional comments (dominant).
+2. Length/duration — heavy after a full 8-hour workday; requests to shorten or split with a break.
+3. Timing/scheduling — too early/too late; preference for training during work hours.
+4. Content mismatch with teacher realities — some felt it was written for a generic audience rather than teachers specifically, and wanted more on burnout.
+5. Pace, energy, monotony — mixed; some wanted more energy from the presenter, others found the calm pace comforting.
+6. Comments about the survey itself — wanting silence/quiet time to complete it, and anonymity.
+7. Technical issues (connectivity).
+8. Miscellaneous (including light-hearted remarks about a "dog" analogy used by the trainer).
+
+--- Summary (Part III) ---
+Results clearly show a very high rating and strong practical/substantive value. Respondents found delivery clear, understandable, and well-suited even for emotionally heavy content. The training significantly broadened/organized knowledge about the functioning of a student after a suicide attempt, suicidal-crisis mechanisms, and safe, supportive procedures for the school environment. Highest-rated content: conversation techniques with a student in crisis, safety-plan creation, organizing support for a returning student, and crisis-team teamwork. A large majority agreed the training improved their understanding of teenagers' problems and that their school is now better prepared to respond to crisis situations. Open answers show the training also shifted perception of suicidal crisis: greater alertness to warning signs, understanding that a suicide attempt reflects deep psychological suffering, moving away from labeling some attempts as "ineffective" or "demonstrative," and recognizing that a crisis affects not only the student but their family, peers, teachers and the whole school community. The trainer's competence and calm, empathetic atmosphere were rated very highly; some participants wanted more real-life examples and workshop time. Critical feedback mostly concerned organizational matters (length, pace, timing, lack of a recording) rather than substance. Conclusion: the training was of very high quality, effectively strengthened participants' competence and confidence in responding to crisis situations, and contributed to building a more aware, attentive and responsible system of student support in schools.
+
+====================================================================
+PART IV — "TEACHER PSYCHOLOGICAL WELL-BEING – HOW TO COPE WITH STRESS AND DIFFICULT EMOTIONS?"
+====================================================================
+This training focused on understanding and managing emotions, especially difficult and unpleasant ones. Participants learned to identify and understand their own emotions to better handle stressful situations and life challenges; techniques for quickly soothing negative emotions to prevent escalation and negative impact on mental health; and long-term strategies for reducing vulnerability to unpleasant emotional states.
+
+1,196 people participated (per-school table in original).
+
+--- Evaluation survey ---
+Same structure. 882 respondents (~73.7% return rate).
+
+Q: Was the format appropriate? Yes: 873 (99.0%) | No: 9 (1.0%)
+
+184 people commented. Key themes:
+1. No need for changes (positive) — dominant.
+2. Format/method suggestions — "less talking, more practice," "the format was too lecture-like," "lacked exercises/interaction," "too much theory disconnected from practice," monotony, request for a livelier pace and tone, "too drawn-out for simple topics."
+3. Organizational/time notes — shorter sessions, more breaks, earlier start time.
+4. Content-scope notes — one suggestion for more focus on legal issues and teachers' lived realities and less on relaxation techniques; a wish for genuinely new material rather than long-familiar content; a long introduction.
+5. Technical/organizational — dislike of the Zoom platform.
+
+Q: Was content delivered understandably? Definitely yes: 83.1% (733) | Rather yes: 16.4% (145) | Negative combined: 0.4% (4)
+
+Q: Did exercises allow practical application? Definitely yes: 75.8% (670) | Rather yes: 23.0% (203) | Negative combined: 1.2% (9)
+
+Q: Did the trainer encourage interaction? Yes: 99.5% (878) | No: 0.5% (4)
+
+Q: Did participation let you gain/organize knowledge? Definitely yes: 68.1% (601) | Rather yes: 29.4% (259) | Negative combined: 2.5% (22)
+
+Scale — "Better understand teenagers' problems": 1: 10 (1.1%) | 2: 13 (1.5%) | 3: 50 (5.7%) | 4: 221 (25.1%) | 5: 588 (66.7%)
+
+Scale — "Our school is better prepared for students in crisis": 1: 9 (1.0%) | 2: 12 (1.4%) | 3: 58 (6.6%) | 4: 214 (24.3%) | 5: 589 (66.8%)
+
+Open question — "Which content will be most useful? Why?" Key themes:
+1. Practical exercises in general.
+2. Breathing exercises — very frequently cited as reducing stress and improving concentration.
+3. Stress-coping methods generally.
+4. Emotion regulation/understanding — "there are no good or bad emotions, all are needed."
+5. Relaxation/calming techniques.
+6. Specific named methods (TIPP technique, Body2Brain, the "5-4-3-2-1" grounding exercise, the "4Z" rule for handling emotions).
+7. Body posture and body-based work — how posture affects emotional state.
+8. Application to work with students — techniques teachers can also use in class with children.
+9. Well-being and self-care — attention to one's own "battery," awareness that daily "hygiene" habits (diet, etc.) strongly affect emotions.
+10. Apps and metaphors — e.g., a "don't panic" app, breathing apps, the metaphor "emotions are like water," even a "painkiller" analogy.
+11. General "everything was useful."
+12. A minority found nothing new — content they already knew.
+
+Open question — "Did the meeting change how you see certain issues?" Key themes:
+1. No change (already familiar territory — through mindfulness courses, personal therapy, yoga, etc.).
+2. Change/affirmative responses (general "yes").
+3. Reinforcement/organization of existing knowledge (without describing it as "change").
+4. Emotions: all are needed / no "good vs. bad" emotions — a very frequently repeated realization.
+5. Mindfulness / self-observation / listening to one's body and emotions.
+6. Well-being / self-care — realizing the need to protect one's own psychological comfort; that "I matter too," and that a teacher's state affects the classroom.
+7. Breathing / relaxation / fast calming techniques — appreciation for the significance of breath and simple techniques to reduce tension quickly.
+8. Body / posture / physicality — surprise at how strongly posture and breathing affect emotional state.
+9. Stress and coping in difficult situations — e.g., a pause-before-reacting habit ("ZZZZ").
+10. The "emotions are like water" metaphor — very frequently and warmly cited as memorable and apt (e.g., "if constantly heated, water boils over — you need to release the lid to calm it").
+11. Uncertain/don't know.
+
+Open question — "Anything unnecessary in the agenda?" Key themes:
+1. No unnecessary content — dominant.
+2. Negative answers without justification (just "no").
+3. Too much theory / long theoretical intro — several requests to shorten.
+4. Too many digressions/anecdotes/metaphors — a few found repeated water/emotion metaphors or "what kind of water are you" exercises tiring.
+5. Exercises/techniques seen as excessive or already familiar by some — e.g., breathing exercises "I already know."
+6. Mismatch with teacher realities — including a pointed critical comment that "teacher well-being isn't about handling panic attacks or excess negative emotion," questioning whether the topic framing matched real teacher needs; another wanting more on "what's in our heads" vs. "the body."
+7. Organizational/time notes.
+8. Uncertain / no clear opinion.
+9. A couple of detailed critical comments arguing the training addressed "dobrostan" (well-being) too superficially and that teacher burnout deserves deeper treatment than a single session on emotion management can provide.
+
+Open question — "Was anything important missing?" Key themes:
+1. Nothing missing / sufficient coverage (dominant) — topic seen as exhausted, both theoretically and practically.
+2. Uncertain / hard to judge.
+3. More references to school-specific realities and teacher-specific techniques — several felt the content was too generic and not clearly tied to the teaching profession; requests for scenarios involving conflicts with students, parents, or administration, plus short scenario-based exercises.
+4. More practice / practical solutions — some felt too much focus was placed on breathing/relaxation exercises versus concrete professional-support tools; one requested a second complementary session with practical tools and legal aspects for teachers.
+5. Workplace relationships, atmosphere, mobbing, staff-context issues — e.g., how to deal with workplace mobbing, the impact of relationships with the principal/colleagues on well-being; one felt the whole training addressed only "emotion management," a narrow slice of "well-being," and suggested a different title would be more accurate.
+6. Well-being beyond "exercises" — deeper coverage of burnout signs, systemic recognition of teachers' real situation and social standing.
+7. Emotional expression vs. suppression — one respondent felt the training was overly oriented toward calming/suppressing emotions and lacked content on experiencing emotions safely.
+8. Breathing — lack of concrete technical instruction (e.g., diaphragmatic breathing "how-to").
+9. Psychoeducation / physiological explanation of stress responses — request for deeper explanation of the biochemistry of emotion/stress reactions.
+10. Guidance on when to seek professional help if self-help techniques aren't enough.
+11. Other isolated suggestions (eco-therapy topic; wanting an in-person meeting; a couple found the content unconvincing or already familiar).
+
+Overall meeting rating (0–10): 10: 524 (59.4%) | 9: 190 (21.5%) | 8: 109 (12.4%) | 7: 21 (2.4%) | 1–6 combined: under 4%.
+
+Open question — additional comments. Key themes:
+1. No comments.
+2. Thanks / very positive reception — several described the session as unusually relaxing, validating, and well-delivered.
+3. Praise for the trainer — competence, warmth, calming voice, empathy; multiple named-trainer shout-outs and requests for more sessions with specific trainers.
+4. Organizational notes — length, timing, fatigue after a workday, requests for a different time slot, requests for training during work hours.
+5. Content match to teacher realities — some felt it targeted a general audience rather than teachers specifically; one wanted more on burnout.
+6. Pace/energy/monotony — mixed feedback (too calm/monotone for some, comforting for others).
+7. Survey conditions and anonymity — a request for silence during survey completion and anonymous responses.
+8. Technical issues (internet quality).
+9. Other (including appreciation for the trainer's "dog analogies").
+
+--- Summary (Part IV) ---
+The training was rated very highly, both substantively and organizationally. Of 1,196 participants, 882 completed the evaluation (~73.7% return), a reliable and representative sample. 99.0% found the format appropriate; 83.1% found content "definitely" clear, another 16.4% "rather" clear — negative responses were marginal (0.4% combined). Practical elements — breathing exercises, relaxation, self-regulation techniques — were rated especially highly, with many valuing the "ready-to-use tools" applicable both in daily life and at work under stress. Many respondents said the session organized/deepened existing knowledge and raised awareness of the importance of caring for one's own well-being. At the same time, a portion of respondents wanted the content more firmly grounded in teachers' actual working realities — more examples tied to relationships with students, parents and administration, and more attention to burnout, workload, and systemic pressure; some felt the theoretical portion could be shorter in favor of "here and now" applicable scenarios. Conclusion: the training was very well received and met its core educational and supportive goals; participant suggestions provide a useful basis for further developing the program, especially toward greater alignment with the specific challenges teachers face daily.
+
+====================================================================
+PART V — "EMOTIONAL FIRST AID: HOW TO RECOGNIZE A SUICIDAL CRISIS IN A STUDENT AND HOW TO ESTABLISH A CRISIS TEAM AT SCHOOL"
+====================================================================
+This was a series of open webinars under the Wspierająca Szkoła umbrella, for all school staff wishing to broaden their knowledge of psychological crisis in children/teenagers and understand the school's role and competencies in such moments. Participants learned to recognize an emotional crisis in a young person and its effect on school functioning; the webinar covered emotional first aid (what anyone can do for a person in crisis), the "4 x Z" principle (an effective, supportive way of responding when noticing an emotional crisis), and the role, establishment rules, and operating scheme of a school crisis team.
+
+6 open webinars were held, with 1,401 total participants.
+
+--- Evaluation survey ---
+Format: 5 scaled-rating questions + 3 open questions (no single-choice section this time). 259 respondents (~18.5% return rate — participation in both the webinar and the survey was voluntary; evening timing 19:00–20:30 likely led some to leave early and skip the post-webinar survey).
+
+Scale — "Content discussed will be useful in school work" (1–5):
+1: 0 | 2: 0 | 3: 7 (2.7%) | 4: 36 (13.9%) | 5: 216 (83.4%)
+
+Scale — "Participation let me gain/organize knowledge about children/teenagers in crisis":
+1: 0 | 2: 1 (0.4%) | 3: 13 (5.0%) | 4: 45 (17.4%) | 5: 200 (77.2%) — 94.6% positive (4+5) combined.
+
+Scale — "Participation let me gain/organize knowledge on establishing a Crisis Team":
+1: 1 (0.4%) | 2: 1 (0.4%) | 3: 14 (5.4%) | 4: 42 (16.2%) | 5: 201 (77.6%) — 93.8% positive combined.
+
+Scale — "I would recommend this meeting to other teachers":
+1: 0 | 2: 0 | 3: 13 (5.0%) | 4: 31 (12.0%) | 5: 215 (83.0%) — 95% positive combined.
+
+Scale — "I believe the Wspierająca Szkoła program is valuable and can help reduce suicidal/self-destructive behavior among youth":
+1: 0 | 2: 0 | 3: 9 (3.5%) | 4: 32 (12.4%) | 5: 218 (84.2%) — 96.6% positive combined.
+
+Open question — "What was a strength of the meeting?" Key themes:
+1. Substantive quality and content quality — precise, valuable, clearly delivered information; content that "hit the core" of a genuinely difficult subject (suicidal thoughts) rather than skirting around it.
+2. Competence and professionalism of the presenter — deep knowledge and experience; clear language; content delivered by someone who works directly in the school environment rather than only from theory.
+3. Delivery style/communication — matter-of-fact, clear, calm voice, concise and non-rambling delivery.
+4. Practicality / applicability — concrete instructions, actionable guidance for dealing with a student in crisis.
+5. Real examples and references to practice — shared professional experience and case examples.
+6. Materials/presentation — clear slides, free supplementary materials describing intervention steps, well-organized structure.
+
+Open question — "What was a weakness of the meeting?" Key themes:
+1. No weaknesses / no comments — dominant answer.
+2. Time/pace — sessions felt too short, insufficient time for Q&A, insufficient time on postvention actions, and a couple noted the actual session ran longer than scheduled.
+3. Audio/technical/connection problems — occasional stuttering, connection issues near the end.
+4. Lack of a certificate, materials, or recording — a recurring and frequent complaint: no certificate of attendance, no access to the slide deck afterward, no recording available to re-watch.
+5. Limited interaction/Q&A opportunity — large audience made it hard to ask questions live; no chat moderator.
+6. Timing/scheduling — late evening timing was inconvenient for some.
+7. Too much theory / too few practical points in the crisis-recognition segment for some; a request for a concrete crisis-team template.
+8. Delivery style — monotone voice for a couple of respondents.
+
+Open question — "Additional comments." Key themes: mostly none/positive; recurring requests for a certificate/proof of attendance (important for teachers' professional-development reporting); requests for access to a recording; strong appreciation and requests for more such training; reports of concrete practical application (e.g., one respondent had since been appointed to a school crisis team, used the ZWJR psychologist consultation, and used the materials to run student workshops and staff training); one systemic comment urging pressure on the Ministry to cap class sizes so students can feel properly cared for.
+
+--- Summary (Part V) ---
+The webinar received a very high rating for both substantive value and practical usefulness. A large majority confirmed the content is useful in professional work, allowed them to gain/organize knowledge, and increased competence in recognizing psychological crisis in children/youth — including the crisis-team component. Main strengths: high content quality, trainer competence/professionalism, clear/calm/orderly delivery, and a practical, real-world-instruction-focused approach without excessive theory. Most respondents saw no significant weaknesses; where mentioned, issues were organizational/technical — short duration, fast pace, limited live Q&A, late timing, occasional audio/connection problems. A frequently repeated and notable gap was the lack of a certificate, recording, or downloadable presentation, which matters for teachers' professional-development documentation. Overall: the webinar was seen as valuable and necessary, strengthening participants' competence and readiness to respond to crisis situations, with reported real-world application (crisis-team involvement, consultations, running follow-up training) — supporting continuation and expansion of this format.
+
+====================================================================
+PART VI — "HOW TO RECOGNIZE AN EMOTIONAL CRISIS IN A TEENAGER AND HOW TO REACT?" — EDUCATIONAL MEETING FOR PARENTS
+====================================================================
+This meeting aimed to broaden parents' understanding of how emotional crises unfold in children and teenagers, helping them understand what a struggling young person experiences, find answers to pressing questions, learn different ways to cope with and support a child's difficulties, and access help for themselves.
+
+15 educational meetings were held for parents/guardians of children attending Edition-II schools, with 584 total participants.
+
+--- Evaluation survey ---
+Same format (5 scaled + 3 open). 63 respondents (~10.8% return rate; voluntary participation in both the webinar and the survey likely limits response rate).
+
+Scale — "Content discussed will be useful when interacting with my child":
+1: 0 | 2: 0 | 3: 2 (3.2%) | 4: 8 (12.7%) | 5: 53 (84.1%)
+
+Scale — "Participation let me gain/organize knowledge about children/teenagers in crisis":
+1: 1 (1.6%) | 2: 0 | 3: 2 (3.2%) | 4: 8 (12.7%) | 5: 52 (82.5%)
+
+Scale — "Thanks to the meeting, I better understand teenagers' problems":
+1: 1 (1.6%) | 2: 1 (1.6%) | 3: 2 (3.2%) | 4: 12 (19.0%) | 5: 47 (74.6%) — 93.6% at 4+5 combined.
+
+Scale — "I would recommend this meeting to other parents":
+1: 0 | 2: 0 | 3: 3 (4.8%) | 4: 10 (15.9%) | 5: 50 (79.4%) — 95.3% at 4+5 combined.
+
+Scale — "I believe the Wspierająca Szkoła program is valuable and can help reduce suicidal/self-destructive behavior":
+1: 0 | 2: 0 | 3: 2 (3.2%) | 4: 8 (12.7%) | 5: 53 (84.1%) — 96.8% at 4+5 combined.
+
+Open question — "Strength of the meeting?" Key themes:
+1. Presenter's competence/experience/professionalism (most frequent category) — expertise, retorical clarity, trust built through the presenter's manner.
+2. Substantive quality / rigor of knowledge delivered — reliable, concise, well-organized content covering key topics "in a nutshell," broad scope.
+3. Practical character / concrete guidance — real behavioral examples, "what to do" guidance, how to talk with a resistant child.
+4. Better understanding of children's/adolescents' emotional crisis — recognizing symptoms of crisis/depression, noticing atypical signs (e.g., aggression, anger) as depression markers, importance of observation.
+5. Clear, understandable delivery/language — plain language, logical structure, vivid comparisons; "difficult knowledge made easy to absorb."
+6. Visual materials/presentation — well-prepared, uncluttered slides that aided retention.
+7. Atmosphere and interaction — ability to ask questions, a sense of support.
+8. Pointers to help/resources — consultations, helpline numbers, concrete sources of support.
+9. A few very general responses ("everything," "I learned a lot").
+
+Open question — "Weakness of the meeting?" Key themes:
+1. No weaknesses seen (dominant) — clearest signal of high satisfaction.
+2. Time constraints — session felt too short, topic not fully exhausted, mismatch between advertised and actual duration.
+3. Scheduling — late timing, no flexibility in the hour offered.
+4. Pace/delivery style — some found the pace or format a bit rushed or requiring more monotone-avoidance.
+5. Presentation form/visual materials — small font on slides (especially on mobile), delivery style.
+6. Limited interaction/Q&A opportunity.
+7. Technical issues.
+8. Desire for deeper/expanded content — e.g., what to do if a child refuses help entirely and reacts with aggression.
+
+Additional comments: gratitude, appreciation for practical value, wish for more such webinars, requests for a recording, appreciation for the psychoeducational value for parents, one poignant note about having previously attributed a teenager's difficult behavior to normal adolescence and now worrying about missed signals, requests for a broader cycle of sessions (identity issues, addiction risk, youth subcultures), and calls for greater promotional outreach for the program.
+
+--- Summary (Part VI) ---
+Very high satisfaction and effectiveness were demonstrated across all scaled questions. Most parents reported gaining or organizing knowledge about children/teenagers in crisis and better understanding the challenges teenagers face; a very high share indicated willingness to recommend the meeting to other parents, confirming trust in its quality. Respondents clearly recognized the value of the Wspierająca Szkoła program as a preventive tool. Key strengths cited: presenter's competence and professionalism; clear, understandable and vivid delivery of difficult topics; substantive, well-organized, broad coverage; practical guidance including concrete talking points and possible support pathways; and helpful visual materials. Weaknesses were mostly organizational/technical (duration, pace, timing, limited Q&A) rather than substantive; a few wanted deeper coverage of specific topics or a downloadable summary. Overall conclusion: the meeting was a valuable and effective element of the Wspierająca Szkoła program, supporting continuation of this type of psychoeducational activity for building adults' competence in supporting children and teenagers through emotional crisis.
+
+====================================================================
+PART VII — "PARENTAL FIRST AID: HOW TO RECOGNIZE AN EMOTIONAL CRISIS IN A CHILD AND TEENAGER AND HOW TO REACT?"
+====================================================================
+An open-webinar series under the Wspierająca Szkoła umbrella for all parents/guardians wanting to broaden their knowledge of psychological crisis in children/teenagers. Content mirrored Part VI's topics (recognizing crisis, emotional first aid, the "4 x Z" principle) plus specific guidance for handling refusal to talk / psychological resistance.
+
+6 open webinars, 1,760 total participants.
+
+--- Evaluation survey ---
+Same 5-scale + 3-open format. 284 respondents (~16.1% return rate; same voluntary-participation caveat as before, plus evening 19:00–20:30 timing).
+
+Scale — "Content will be useful when interacting with my child":
+1: 3 (1.1%) | 2: 1 (0.4%) | 3: 3 (1.1%) | 4: 21 (7.4%) | 5: 256 (90.1%)
+
+Scale — "Participation let me gain/organize knowledge about children/teenagers in crisis":
+1: 2 (0.7%) | 2: 1 (0.4%) | 3: 5 (1.8%) | 4: 42 (14.8%) | 5: 234 (82.4%)
+
+Scale — "Thanks to the meeting, I better understand teenagers' problems":
+1: 3 (1.1%) | 2: 0 | 3: 6 (2.1%) | 4: 47 (16.5%) | 5: 228 (80.3%) — 96.8% at 4+5.
+
+Scale — "I would recommend this meeting to other parents":
+1: 2 (0.7%) | 2: 0 | 3: 1 (0.4%) | 4: 19 (6.7%) | 5: 262 (92.3%) — 99.0% at 4+5.
+
+Scale — "I believe the Wspierająca Szkoła program is valuable...":
+1: 2 (0.7%) | 2: 0 | 3: 6 (2.1%) | 4: 35 (12.3%) | 5: 241 (84.9%) — 97.2% at 4+5.
+
+Open question — "Strength of the meeting?" Key themes:
+1. Presenter's competence, experience, professionalism (most frequent) — knowledge of clinical practice with children/youth, sense of security built by the presenter.
+2. High substantive level / rigor of content — thorough, focused coverage of key aspects of emotional crisis and depression, logical structure.
+3. Practical character and concrete guidance — ready-made action schemes, sample scripts/phrases for talking with a child, immediate applicability ("here and now").
+4. Real-life examples and vivid comparisons — case anecdotes, quoted statements from children/teens, illustrative metaphors that clarified concepts.
+5. Clear, accessible, empathetic delivery — plain language, coherent flow, empathetic treatment of the parent and child perspective.
+6. Better understanding of the child's perspective and crisis mechanisms — seeing emotions/reactions "from the child's side"; better grasp of the depression mechanism.
+7. Interaction and Q&A opportunity — chat-based questions, sense of dialogue.
+8. Clear structure and format — organized content, logical flow, supported by good presentation.
+
+Open question — "Weakness of the meeting?" Key themes:
+1. No weaknesses noted (by far the most frequent) — a strong satisfaction signal.
+2. Time constraints — too short for a broad topic; sense of time pressure given the subject's breadth.
+3. Pace of delivery — too fast/too much information at once, making note-taking difficult.
+4. No recording / no way to re-listen (one of the most frequently repeated organizational complaints) — many expressed regret at not being able to revisit dense content.
+5. Limited Q&A/discussion time.
+6. Wanted more real-life examples/exercises.
+7. Online format / technical issues (connection quality).
+8. Requests for a follow-up series — one session felt insufficient for such an important topic.
+9. A handful of isolated remarks (long intro, reading from notes, preference for a slightly later start time).
+
+Additional comments — similar themes: wish for a recording (very frequent), requests for more/broader Q&A time, requests for a session cycle, appreciation and thanks, some scheduling preferences, technical-issue reports, and requests for downloadable/print materials or a summary handout.
+
+--- Summary (Part VII) ---
+Results confirm very high ratings and strong educational/practical value. Respondents overwhelmingly found the content useful, understandable, and applicable to daily interaction with their child or teenager. Participation deepened understanding of the challenges facing teenagers and increased empathy for their emotions and behavior; participants especially noted improved recognition of emotional-crisis and depression symptoms and warning signs that might otherwise have gone unnoticed or been dismissed. A very high willingness to recommend the webinar confirms strong satisfaction and confidence in its quality, and respondents clearly valued the Wspierająca Szkoła program's preventive significance. Key strengths cited in open answers: presenter competence/experience/professionalism; clear, empathetic and accessible delivery of even the hardest topics; practical focus with real examples, concrete conversation guidance, and clear crisis-response frameworks; and the opportunity to see emotional problems from the child's perspective. Weaknesses were mostly organizational/technical — limited session length relative to the topic's breadth, fast pace, lack of a recording, and insufficient Q&A time; some wanted a follow-up series or more practical examples. Conclusion: the webinar was seen as valuable, reliable and needed psychoeducation, effectively meeting parents' needs; continuation and expansion within the Wspierająca Szkoła program is warranted.
+
+====================================================================
+PART VIII — "PARENTAL FIRST AID: ADDICTIONS IN CHILDREN AND YOUTH"
+====================================================================
+An open-webinar series under the Wspierająca Szkoła umbrella for parents/guardians wanting to broaden their knowledge about addiction in young people: what addiction is (including behavioral addiction), its biological, psychological and social mechanisms, its developmental phases, the most common warning signals, building trust, and effective communication with a child/teenager.
+
+4 open webinars, 513 total participants.
+
+--- Evaluation survey ---
+Same 5-scale + 3-open format. 63 respondents (~19.9% return rate; same voluntary-participation caveat, evening timing).
+
+Scale — "Content will be useful when interacting with my child":
+1: 0 | 2: 0 | 3: 4 (3.9%) | 4: 9 (8.8%) | 5: 89 (87.3%)
+
+Scale — "Participation let me gain/organize knowledge on addiction in children/youth":
+1: 0 | 2: 0 | 3: 5 (4.9%) | 4: 14 (13.7%) | 5: 83 (81.4%)
+
+Scale — "Thanks to the meeting, I better understand teenagers' problems":
+1: 0 | 2: 1 (1.0%) | 3: 5 (4.9%) | 4: 15 (14.7%) | 5: 81 (79.4%) — 94.1% at 4+5.
+
+Scale — "I would recommend this meeting to other parents":
+1: 0 | 2: 0 | 3: 2 (2.0%) | 4: 9 (8.8%) | 5: 91 (89.2%) — 98.0% at 4+5.
+
+Scale — "I believe the Wspierająca Szkoła program is valuable...":
+1: 0 | 2: 0 | 3: 3 (2.9%) | 4: 15 (14.7%) | 5: 84 (82.4%) — 97.1% at 4+5.
+
+Open question — "Strength of the meeting?" Key themes:
+1. Substantive knowledge and high content level — "essence of knowledge," rich, well-explained mechanism of addiction and recovery, terse and precise.
+2. Presenter's competence, experience and professionalism — a specialist who also works directly with youth, and (in several comments) also drew on personal experience as a parent; the trainer "Joanna" was named and praised extensively.
+3. Clarity, accessibility and delivery style — precise, well-organized content, calm and confident manner, honest/direct naming of phenomena and problems.
+4. Practical guidance, examples and real-life applicability — concrete information on interventions and support options, sample communications to use with a child, explanation of the addiction mechanism and recovery path.
+5. Understanding the addiction problem and the family's role — the importance of the parental role in prevention, family's part in the support process, practical tips such as "phone-free days."
+6. Format and interaction — engaging lecture, live Q&A with immediate answers, comfortable at-home viewing conditions.
+
+Open question — "Weakness of the meeting?" Key themes:
+1. No weaknesses noted (largest category).
+2. Too-short duration — repeated wish for more time/more concrete tools; several said they would happily have listened much longer.
+3. No recording / no way to revisit content — a frequent complaint; content moved too fast to take full notes, and there was no way to review it afterward.
+4. Fast pace and limited Q&A time.
+5. Technical/connection issues — poor internet, disruptions, not being able to see the presenter.
+6. Insufficient practical examples/case studies — a wish for more concrete illustrations specific to teenagers.
+7. Lack of supplementary materials/reading list — requests for recommended literature on addiction for parents and for children/youth themselves.
+8. Presentation form — one comment found the visual slides "boring."
+9. A note on tone — one respondent felt momentarily, if only slightly, judged as a parent by a remark, which didn't feel supportive (context: an exchange in the chat about difficulty organizing time with a child).
+10. Access/scheduling — webinar hours don't suit everyone; one respondent learned about the session too late to attend from the start.
+
+Additional comments — largely thanks, appreciation, requests for more such webinars, and strong specific praise for the trainer ("Joanna Flis") including a detailed comment noting she handled a difficult moment (a participant briefly felt judged) with tact and professionalism. Several requests: a platform hosting past-webinar recordings so valuable content isn't lost; certificates of attendance (relevant for both parents and institutional staff who need proof of participation); a repeat session in September for wider parent reach; and creative promotional ideas (e.g., short teaser videos) to boost attendance.
+
+--- Summary (Part VIII) ---
+Results clearly indicate a very high rating and strong educational/preventive value. Most respondents found the webinar substantive, practical, and responsive to real parental needs — both in broadening knowledge and in better understanding addiction mechanisms and the family's role in supporting a child. Participants said the session helped organize existing knowledge, understand warning signals, and gain concrete communication/intervention guidance. High scaled ratings confirm the content was seen as useful in daily interaction with a child and effective at increasing empathy and awareness of the challenges children and teenagers face. A very high share would recommend the session to other parents, reflecting strong satisfaction and trust in the presenter's quality and competence; participants also expressed strong belief in the value of the Wspierająca Szkoła program as a genuine preventive tool against risky and self-destructive youth behavior. Key strengths cited: high knowledge level, clear and accessible delivery, extensive practical references, presenter experience and professionalism, organized structure, concrete examples of actions and phrasing usable in a relationship with a child, and the opportunity to ask questions. The most frequently cited weakness was too-short duration relative to the breadth and importance of the topic; some also noted the lack of a recording or way to revisit content, which hindered note-taking and retention; a few mentioned pace, technical issues, and a lack of practical examples or supplementary reading/case materials. Notably, a large share of respondents reported no perceived weaknesses at all. Conclusion: results confirm very high substantive quality, appropriate topic selection, and the case for continuing and expanding this educational activity within Wspierająca Szkoła — feedback also points to demand for further sessions, ideally as a series, with access to recordings and deeper materials to strengthen the program's long-term educational and preventive impact.
+
+====================================================================
+CONCLUSIONS
+====================================================================
+Analysis of the evaluation surveys carried out under Edition II of the "Wspierająca Szkoła" program clearly shows that the program was an initiative of very high substantive, practical and social value. Teachers, school specialists, and parents/guardians of children and youth alike rated the project's activities as needed, well-designed, and genuinely supportive of them in their day-to-day educational and professional roles.
+
+Across all respondent groups, a large majority reported that participating in the trainings and meetings let them gain new knowledge or organize/systematize knowledge they already had. High and very high ratings dominated the scaled questions on clarity of delivery, usefulness of content, trainer competence, and the meetings' impact on participants' sense of readiness to respond to psychological crises in children and youth. Negative or low ratings were sporadic and isolated, confirming the coherence and effectiveness of the program's overall concept.
+
+A particularly important finding is that participants very highly valued the practical character of the content delivered. Both teachers and parents repeatedly emphasized the value of ready-made tools, response frameworks, sample phrases, and clearly defined steps for responding in crisis situations. Most frequently cited as useful were: talking with a child/student in crisis, the skill of asking the right questions, avoiding consolation and judgment, using empathy, recognizing warning signals, and knowing when to hand a case to another specialist or service.
+
+The results also clearly show the program shifted how participants think about psychological crisis in children and youth. Respondents reported greater sensitivity to crisis signals, better understanding of problematic behavior as a possible "cry for help," and greater willingness to have difficult conversations — including about self-harm and suicidal thoughts. Many responses pointed to overcoming the fear of naming problems directly and moving away from a reflex to quickly "fix" the situation, in favor of attentive presence and listening.
+
+From the schools' perspective, an especially important finding is that training participants reported a stronger sense that their institutions are now better prepared to respond to students' psychological crises. Respondents emphasized the value of clear procedures, teamwork, and awareness of the limits of their own competence. The "relay of help" motif — the ability to hand responsibility to other people or institutions — was repeatedly cited as reducing teachers' sense of overload and anxiety.
+
+Analysis of open-ended answers on strengths and weaknesses shows a clear preponderance of positive assessments. Among strengths, opinions most often referenced trainers' high competence and practical experience, clear and understandable language, and the ability to combine theory with real-life and professional examples. Where weaknesses were noted, they mainly concerned organizational and technical matters (session length, online format, lack of recordings, fast pace) rather than substantive quality.
+
+A recurring request was for continuation of these activities — further trainings, session series, deeper workshops, and materials allowing participants to revisit the content after webinars ended. Both teachers and parents expressed willingness to take part in further such initiatives, reflecting a high level of trust in the program and its organizers.
+
+In summary, the results of all evaluation surveys consistently confirm that the "Wspierająca Szkoła" program effectively achieved its goals: it strengthened adults' competencies, increased their sense of agency and readiness to respond to psychological crises in children and youth, and met the real needs of both the school and family environment. The program can be considered a model example of prevention activity grounded in scientific knowledge, practical experience, and the real needs of its recipients, and provides a solid foundation for further development and nationwide dissemination of this type of initiative.
+
+The "Wspierająca Szkoła" program is an important step toward strengthening psychological support in Polish schools. Through its continuation and the implementation of these recommendations, it can become an even more effective tool in counteracting psychological crises among children and youth.
+
+====================================================================
+END OF TRANSLATION
+====================================================================

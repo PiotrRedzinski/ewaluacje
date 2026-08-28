@@ -116,8 +116,8 @@ Ewaluator ma zdjąć najbardziej powtarzalną część tej pracy: policzyć wyni
 
 ### Import i rozpoznawanie danych
 
-- FR-001: Koordynator raportów can wgrać eksport wyników ankiety (format arkusza kalkulacyjnego z formularza ankietowego). Priority: must-have
-- FR-002: Koordynator raportów can wgrać parę plików „przed" i „po" dla testu wiedzy. Priority: must-have
+- FR-001: Koordynator raportów can wgrać surowy eksport CSV z Google Forms, bez wcześniejszej agregacji — jedyna czynność użytkownika to wskazanie kolumny odpowiadającej pytaniu do raportu. Priority: must-have
+- FR-002: Koordynator raportów can wgrać parę surowych eksportów CSV „przed" i „po" dla testu wiedzy (bez wspólnego identyfikatora uczestnika — patrz Business Logic). Priority: must-have
 - FR-003: Narzędzie can rozpoznać kolumny metadanych (sygnatura czasowa, zgoda RODO, stanowisko, staż pracy, szkoła) i oddzielić je od kolumn pytań. Priority: must-have
 - FR-004: Narzędzie can rozpoznać typ pytania: zamknięte jednokrotnego wyboru, skala oceny, otwarte. Priority: must-have
 
@@ -171,17 +171,17 @@ Ewaluator ma zdjąć najbardziej powtarzalną część tej pracy: policzyć wyni
 
 ## Business Logic
 
-Rozliczenie grantu wymaga wykazania, że co najmniej 75% uczestników przekroczyło próg punktowy; dla każdego uczestnika liczy się wynik z testu wiedzy przed i po szkoleniu.
+Rozliczenie grantu wymaga wykazania, że co najmniej 75% uczestników przekroczyło próg punktowy oraz przedstawienia wzrostu wiedzy między pomiarem „przed" a „po".
+
+**Rozstrzygnięcie: brak dopasowania per uczestnik.** Surowe eksporty CSV z Google Forms (preankieta i postankieta) nie zawierają wspólnego identyfikatora uczestnika (brak imienia/e-maila/ID łączącego wiersz „przed" z wierszem „po"). Dlatego zarówno wzrost wiedzy, jak i próg 75% liczone są **agregatowo na poziomie pytania/grupy, nie per osoba**: dla każdego pytania porównuje się % odpowiedzi poprawnych w „przed" vs % odpowiedzi poprawnych w „po" w obrębie całej grupy (np. szkoły lub szkolenia); próg 75% odnosi się do odsetka poprawnych odpowiedzi w agregacie postankiety, a nie do dopasowanego wzrostu każdej pojedynczej osoby. Jeśli w przyszłości pojawi się plik z faktycznym identyfikatorem uczestnika, dopasowanie per osoba stanie się możliwe — ale MVP zakłada wejście bez takiego klucza.
 
 Dla każdego pytania zamkniętego w teście wiedzy: raport podaje liczbę i odsetek każdej odpowiedzi przed i po, wskazuje odpowiedź prawidłową, oblicza różnicę odsetka odpowiedzi prawidłowych w **punktach procentowych** (np. wzrost z 69,2% do 75,5% = +6,3 p.p., nie „wzrost o 9%"). Gdy liczba respondentów przed ≠ po, opis informuje o różnicy i opiera porównanie na odsetkach.
 
-Opis pod wykresem: formalny i rzeczowy, ale przystępny; skupia się na najważniejszych wynikach (nie powtarza wszystkich wartości z wykresu); kończy krótkim wnioskiem wynikającym bezpośrednio z danych. Wnioski formułowane ostrożnie — bez stwierdzeń przyczynowych wobec szkolenia, chyba że dane to uzasadniają.
+Opis pod wykresem: formalny i rzeczowy, ale przystępny; skupia się na najważniejszych wynikach (nie powtarza wszystkich wartości z wykresu); kończy krótkim wnioskiem wynikającym bezpośrednio z danych. Wnioski formułowane ostrożnie — bez stwierdzeń przyczynowych wobec szkolenia, chyba że dane to uzasadniają. Granica tonu „pokazywanie osiągnięć" vs zmyślanie jest w pełni domknięta wytycznymi w `context/foundation/sources/Wytyczne dotyczące tonu i formatu raportu.md` (sformułowania typu „wyniki wskazują", „może to świadczyć o…") — nie wymaga dalszych ustaleń.
 
 Dla pytań otwartych: grupowanie według najczęstszych tematów; liczba i odsetek wypowiedzi per kategoria; cytaty anonimowe i dosłowne z ankiet; pojedyncze głosy oznaczone jako jednostkowe.
 
 Do każdego pytania w raporcie: pełna treść pytania + wykres + liczba odpowiedzi + opis. „Musi być i wykres, i tekst."
-
-# TODO: definicja progu punktowego per uczestnik (suma poprawnych? średnia? per szkolenie?) — see Open Questions
 
 ## Access Control
 
@@ -200,11 +200,14 @@ MVP: narzędzie dla wewnętrznego zespołu ZWJR (~5 osób); bez logowania — do
 
 ## Open Questions
 
-1. **Definicja progu punktowego per uczestnik** — Czy próg liczy się jako % poprawnych odpowiedzi we wszystkich pytaniach testu? Jaka wartość progu (np. 60% poprawnych)? Owner: opiekun grantu ZWJR. Block: yes.
-2. **Mapowanie uczestników między pre- i postankietą** — Czy łączenie po e-mailu/imieniu, czy porównanie tylko na poziomie zbiorczym (odsetki)? Owner: user. Block: yes (wpływa na obliczenie 75%).
-3. **Odpowiedź prawidłowa per pytanie** — Skąd narzędzie bierze klucz odpowiedzi (konfiguracja ręczna, plik metadanych, wykrywanie z treści pytania)? Owner: user. Block: yes (demo testu wiedzy).
-4. **Boilerplate wstępu programu** — Czy generować stały blok opisowy programu „Wspierająca Szkoła" z szablonu, czy użytkownik wkleja ręcznie? Owner: user. Block: no.
-5. **RODO i przechowywanie danych** — Jak długo trzymać wgrywane pliki z danymi osobowymi? Czy anonimizować przed zapisem? Owner: user / DPO. Block: yes (produkcja).
-6. **Model auth w wersji produkcyjnej** — Logowanie Google Workspace ZWJR? Owner: user. Block: no (MVP bez auth).
-7. **Grupowanie odpowiedzi otwartych — algorytm vs. ręczna weryfikacja** — Czy koordynator zatwierdza kategorie przed exportem? Owner: user. Block: no (nice-to-have).
-8. **Granica tonu „pokazywania osiągnięć"** — Konkretne przykłady sformułowań dozwolonych/zabronionych poza wytycznymi? Owner: opiekun grantu. Block: no (wytyczne w dostarczonym dokumencie referencyjnym częściowo pokrywają).
+1. **Odpowiedź prawidłowa per pytanie** — Skąd narzędzie bierze klucz odpowiedzi (konfiguracja ręczna, plik metadanych, wykrywanie z treści pytania)? Owner: user. Block: yes (demo testu wiedzy).
+2. **Boilerplate wstępu programu** — Czy generować stały blok opisowy programu „Wspierająca Szkoła" z szablonu, czy użytkownik wkleja ręcznie? Owner: user. Block: no.
+3. **RODO i przechowywanie danych** — Jak długo trzymać wgrywane pliki z danymi osobowymi? Czy anonimizować przed zapisem? Owner: user / DPO. Block: yes (produkcja).
+4. **Model auth w wersji produkcyjnej** — Logowanie Google Workspace ZWJR? Owner: user. Block: no (MVP bez auth).
+5. **Grupowanie odpowiedzi otwartych — algorytm vs. ręczna weryfikacja** — Czy koordynator zatwierdza kategorie przed exportem? Owner: user. Block: no (nice-to-have).
+
+### Resolved
+
+- **Próg punktowy i mapowanie uczestników pre/post** — Surowe eksporty CSV nie mają wspólnego identyfikatora uczestnika; próg 75% i wzrost wiedzy liczone są agregatowo na poziomie pytania/grupy, nie per osoba. Zapisane w `## Business Logic`.
+- **Format pliku wejściowego** — Dwa surowe eksporty CSV z Google Forms (bez wcześniejszej agregacji przez użytkownika, poza wskazaniem kolumny pytania). Zapisane w FR-001/FR-002.
+- **Granica tonu „pokazywania osiągnięć" vs zmyślanie** — W pełni domknięta przez `context/foundation/sources/Wytyczne dotyczące tonu i formatu raportu.md`; nie wymaga dodatkowych ustaleń.

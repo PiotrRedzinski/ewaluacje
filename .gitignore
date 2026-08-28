@@ -25,3 +25,10 @@ Thumbs.db
 .idea/
 
 .vs
+
+# from react-router
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
