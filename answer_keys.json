@@ -1,0 +1,113 @@
+{
+  "dobrostan_psychiczny_nauczyciela": {
+    "title": "Dobrostan psychiczny nauczyciela – jak sobie radzić ze stresem i trudnymi emocjami?",
+    "target_group": "Kadra pedagogiczna",
+    "questions": {
+      "Co jest prawdą o emocjach?": {
+        "correct_answer": "Obie odpowiedzi są poprawne.",
+        "all_options": [
+          "Obie odpowiedzi są poprawne.",
+          "To reakcje, które pojawiają się w odpowiedzi na subiektywnie ważną dla danej osoby sytuację.",
+          "Uruchamiają cały zespół zmian w ciele, w sposobie myślenia i zachowaniu człowieka.",
+          "Nie wiem"
+        ]
+      },
+      "Z psychologicznego punktu widzenia emocje:": {
+        "correct_answer": "Są normalne i potrzebne, ponieważ realizują szereg ważnych funkcji.",
+        "all_options": [
+          "Są normalne i potrzebne, ponieważ realizują szereg ważnych funkcji.",
+          "można podzielić na dobre (pozytywne) i złe (negatywne).",
+          "są abstrakcyjnym, metafizycznym doświadczeniem.",
+          "Nie wiem"
+        ]
+      },
+      "Co może pomóc w KONSTRUKTYWNYM ukojeniu nieprzyjemnych emocji?": {
+        "correct_answer": "Przyjęcie odpowiedniej postawy ciała lub wykonanie prostych ruchów.",
+        "all_options": [
+          "Przyjęcie odpowiedniej postawy ciała lub wykonanie prostych ruchów.",
+          "Zjedzenie czegoś słodkiego.",
+          "Odreagowanie emocji w kłótni z inną osobą.",
+          "Nie wiem"
+        ]
+      },
+      "Jak wykonuje się poprawny oddech przeponowy?": {
+        "correct_answer": "Wdech odbywa się przez nos, a wydech – przez usta.",
+        "all_options": [
+          "Wdech odbywa się przez nos, a wydech – przez usta.",
+          "Wdech i wydech odbywają się przez nos.",
+          "Wdech odbywa się przez usta, a wydech – przez nos.",
+          "Nie wiem"
+        ]
+      },
+      "Co jest sposobem na zmniejszenie podatności na odczuwanie nieprzyjemnych stanów emocjonalnych?": {
+        "correct_answer": "Codzienna troska o fizyczność, opierająca się na trzech głównych filarach: właściwej diecie, odpowiedniej ilości snu i ruchu.",
+        "all_options": [
+          "Codzienna troska o fizyczność, opierająca się na trzech głównych filarach: właściwej diecie, odpowiedniej ilości snu i ruchu.",
+          "Optymistyczne nastawienie do codzienności i koncentrowanie się na pozytywnych aspektach własnego życia.",
+          "Żadna z powyższych.",
+          "Nie wiem"
+        ]
+      }
+    }
+  },
+  "uczen_w_kryzysie_psychicznym": {
+    "title": "Uczeń w kryzysie psychicznym – jak go rozpoznać i wspierać?",
+    "target_group": "Kadra pedagogiczna",
+    "questions": {
+      "Jakie zachowanie NIE jest sygnałem ostrzegawczym kryzysu psychicznego?": {
+        "correct_answer": "Chwilowe pogorszenie humoru po trudnym wydarzeniu.",
+        "all_options": []
+      },
+      "Pierwszym krokiem w kontakcie z uczniem w kryzysie jest:": {
+        "correct_answer": "Uważne wysłuchanie bez oceniania i zapewnienie poczucia bezpieczeństwa.",
+        "all_options": []
+      }
+    }
+  },
+  "rodzice_ucznia_w_kryzysie": {
+    "title": "Rodzice ucznia w kryzysie psychicznym – jak ich motywować do współpracy?",
+    "target_group": "Kadra pedagogiczna",
+    "questions": {
+      "Kluczowym elementem budowania przymierza z rodzicami jest:": {
+        "correct_answer": "Partnerska rozmowa oparta na faktach i trosce o dobro dziecka.",
+        "all_options": []
+      }
+    }
+  },
+  "uczen_po_probie_samobojczej": {
+    "title": "Uczeń po próbie samobójczej – jak go wspierać w powrocie do szkoły?",
+    "target_group": "Kadra pedagogiczna",
+    "questions": {
+      "Plan powrotu ucznia do szkoły po próbie samobójczej powinien zawierać:": {
+        "correct_answer": "Plan bezpieczeństwa oraz wyznaczenie osoby pierwszego kontaktu w szkole.",
+        "all_options": []
+      }
+    }
+  },
+  "uzaleznienia_dzieci_i_mlodziezy": {
+    "title": "Pierwsza pomoc rodzicielska: Uzależnienia dzieci i młodzieży",
+    "target_group": "Rodzice i opiekunowie",
+    "questions": {
+      "Z perspektywy neurobiologicznej centralnym elementem uzależnienia jest:": {
+        "correct_answer": "Układ nagrody i neuroprzekaźnik dopamina.",
+        "all_options": []
+      },
+      "Do typowych objawów uzależnień behawioralnych należy:": {
+        "correct_answer": "Zwiększanie czasu poświęcanego na daną czynność kosztem innych sfer życia oraz zespół abstynencyjny.",
+        "all_options": []
+      },
+      "Największa podatność na uzależnienia przypada na okres:": {
+        "correct_answer": "Wczesnego i średniego okresu dojrzewania (adolescencji).",
+        "all_options": []
+      },
+      "Systemowe ujęcie rodziny zakłada, że:": {
+        "correct_answer": "Objaw u dziecka może pełnić określoną funkcję w równowadze całego systemu rodzinnego.",
+        "all_options": []
+      },
+      "Przykładem poprawnego komunikatu w rozmowie z dzieckiem na temat uzależnienia jest:": {
+        "correct_answer": "Komunikat typu „Ja”, wyrażający troskę i konkretne obserwacje faktów bez oskarżeń.",
+        "all_options": []
+      }
+    }
+  }
+}
